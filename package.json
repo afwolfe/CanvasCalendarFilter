@@ -1,0 +1,19 @@
+{
+  "name": "canvascalendarfilter",
+  "version": "2.0.0",
+  "description": "A Google Apps Script for Google Calendar to create separate course calendars from the Canvas LMS calendar feed.",
+  "main": "CanvasCalendarFilter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afwolfe/CanvasCalendarFilter.git"
+  },
+  "author": "afwolfe",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/afwolfe/CanvasCalendarFilter/issues"
+  },
+  "homepage": "https://github.com/afwolfe/CanvasCalendarFilter#readme"
+}
